@@ -14,8 +14,8 @@ Custom Camera with python and OpenCV Library
 <img src="ScreenShots/4.png">
 
 ## Capture Video Option start with 'c' button and end with 'v' button
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="output.avi" type="video/mp4" />
+<video autoplay loop style="width:100%; height: auto; position:absolute;">
+  <source src="output.avi" type="video/avi" />
   <img src="ScreenShots/1.png">
 </video>
 
