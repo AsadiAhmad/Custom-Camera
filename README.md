@@ -1,7 +1,7 @@
 # Custom-Camera
 Custom Camera with python and OpenCV Library
 
-## Live Camera
+## Live Camera and Capture Photo with 's' button
 <img src="ScreenShots/1.png">
 
 ## Blur Option with 'b' Button
